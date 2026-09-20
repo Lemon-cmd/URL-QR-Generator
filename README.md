@@ -19,4 +19,6 @@ Here is an example:
 ```bash
 python qr_code.py https://arxiv.org/pdf/2604.26841 --color=green
 ```
-![image]()
+![image](example.png)
+
+When the `Copy QR` button is clicked, the matplotlib screen will go away, but the user can still paste the image onto editing tools like `Figma`.
