@@ -1,0 +1,4 @@
+qrcode>=8.0
+pillow>=10.0.0
+matplotlib>=3.8.0
+numpy>=1.26.0
